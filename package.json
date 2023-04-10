@@ -13,5 +13,8 @@
     "@tinacms/cli": "^1.5.5",
     "astro": "^2.2.0",
     "tinacms": "^1.4.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.4"
   }
 }
