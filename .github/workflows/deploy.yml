@@ -35,6 +35,9 @@ jobs:
         run: pnpm install
       - name: Build
         shell: "bash"
+        env:
+          TINA_CLIENTID: ${{ vars.TINA_CLIENTID }}
+          TINA_TOKEN: ${{ vars.TINA_TOKEN }}
         run: |
           pnpm tinacms build
           pnpm run build
