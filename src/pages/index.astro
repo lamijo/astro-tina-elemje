@@ -1,6 +1,11 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
+import latestPostFirst from '../utils/latestPostFirst';
+
+const rawPosts = await Astro.glob('../../content/posts/*.md');
+const posts = rawPosts.sort(latestPostFirst);
+const localDate = new Intl.DateTimeFormat('id-ID', { dateStyle: 'full' });
 ---
 
 <Layout title="Blog oleh elemje™">
@@ -11,35 +16,22 @@ import Card from '../components/Card.astro';
       tetapi mana ada kemajuan tanpa diawali oleh sebuah <strong>perubahan</strong>.
 		</p>
 		<ul role="list" class="link-card-grid">
-			<Card
-				href="https://docs.astro.build/"
-				title="Documentation"
-				body="Learn how Astro works and explore the official API docs."
-			/>
-			<Card
-				href="https://astro.build/integrations/"
-				title="Integrations"
-				body="Supercharge your project with new frameworks and libraries."
-			/>
-			<Card
-				href="https://astro.build/themes/"
-				title="Themes"
-				body="Explore a galaxy of community-built starter themes."
-			/>
-			<Card
-				href="https://astro.build/chat/"
-				title="Community"
-				body="Come say hi to our amazing Discord community. ❤️"
-			/>
+      { posts.map(post =>
+        <Card 
+          href={post.url || '#'} 
+          title={post.frontmatter.title || ''} 
+          body={localDate.format(new Date(post.frontmatter.date))}
+        /> 
+      ) }
 		</ul>
 	</main>
 </Layout>
 
 <style>
 	main {
-		margin: auto;
+		margin-left: 9rem;
+		margin-right: 9rem;
 		padding: 1.5rem;
-		max-width: 60ch;
 	}
 	h1 {
 		font-size: 3rem;
@@ -74,7 +66,7 @@ import Card from '../components/Card.astro';
 	}
 	.link-card-grid {
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		grid-template-columns: auto;
 		gap: 1rem;
 		padding: 0;
 	}
