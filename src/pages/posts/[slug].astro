@@ -1,0 +1,38 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import slugFromFilename from '../../utils/slugFromFilename';
+
+export async function getStaticPaths() {
+  const all = await Astro.glob('../../../content/posts/*.md');
+  return all.map(({ file, frontmatter, Content }) => ({ 
+    params: { slug: slugFromFilename(file) },
+    props: { frontmatter, Content }
+  }))
+}
+
+const { frontmatter: post, Content } = Astro.props;
+---
+<Layout title={post.title}>
+  <main>
+    <h2>{post.title}</h2>
+    <article>
+      <Content />
+    </article>
+  </main>
+</Layout>
+
+<style>
+	main {
+		margin-left: 9rem;
+		margin-right: 9rem;
+		padding: 1.5rem;
+	}
+	h2 {
+		font-size: 2rem;
+		font-weight: 600;
+		margin: 0;
+	}
+  article {
+    margin-top: 2rem;
+  }
+</style>

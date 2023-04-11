@@ -2,6 +2,7 @@
 import Layout from '../layouts/Layout.astro';
 import Card from '../components/Card.astro';
 import latestPostFirst from '../utils/latestPostFirst';
+import slugFromFilename from '../utils/slugFromFilename';
 
 const rawPosts = await Astro.glob('../../content/posts/*.md');
 const posts = rawPosts.sort(latestPostFirst);
@@ -18,7 +19,7 @@ const localDate = new Intl.DateTimeFormat('id-ID', { dateStyle: 'full' });
 		<ul role="list" class="link-card-grid">
       { posts.map(post =>
         <Card 
-          href={post.url || '#'} 
+          href={"posts/" + slugFromFilename(post.file)} 
           title={post.frontmatter.title || ''} 
           body={localDate.format(new Date(post.frontmatter.date))}
         /> 
