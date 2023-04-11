@@ -2,6 +2,7 @@
 title: Ramadhan yang indah untuk semua
 date: '2023-04-10T17:00:00.000Z'
 tags:
+  - ramadhan indah
   - ramadhan
 image: 'https://assets.tina.io/ac1ae0b1-8643-4ffd-87f8-283105ba7694/download.jpeg'
 ---
