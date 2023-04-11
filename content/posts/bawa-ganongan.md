@@ -2,6 +2,7 @@
 date: '2020-12-21T00:00:00.000Z'
 title: Bawa kanggo ganongan
 tags:
+  - bujang ganong
   - jawa
   - ganongan
 image: 'https://assets.tina.io/ac1ae0b1-8643-4ffd-87f8-283105ba7694/download.png'
