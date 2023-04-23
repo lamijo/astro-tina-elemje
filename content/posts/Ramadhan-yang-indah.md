@@ -1,13 +1,13 @@
 ---
 title: Ramadhan yang indah untuk semua
-date: '2023-04-10T17:00:00.000Z'
+date: 2023-04-10T17:00:00.000Z
 tags:
   - ramadhan indah
   - ramadhan
 image: 'https://assets.tina.io/ac1ae0b1-8643-4ffd-87f8-283105ba7694/download.jpeg'
 ---
 
-Bulan Ramadan adalah bulan yang paling dinanti-nantikan oleh umat Muslim di seluruh dunia. Bulan suci ini dianggap sebagai waktu yang paling indah dan momen penuh berkah. Selama bulan Ramadan, umat Muslim berpuasa dari fajar hingga matahari terbenam sebagai bentuk ketaatan kepada Allah SWT untuk mencapai ***'muttaqin'***. Mengapa bulan Ramadan adalah bulan yang indah? Ada beberapa hal yang dapat dikemukakan di sini sebagai bahan renungan bersama.
+Bulan Ramadan adalah bulan yang paling dinanti-nantikan oleh umat muslim di seluruh dunia. Bulan suci ini dianggap sebagai waktu yang paling indah dan momen yang penuh berkah dan rahmah. Selama bulan Ramadan, umat muslim berpuasa dari fajar hingga matahari terbenam sebagai bentuk ketaatan kepada Allah SWT untuk mencapai ***'muttaqin'***. Mengapa bulan Ramadan adalah bulan yang indah? Ada beberapa hal yang dapat dikemukakan di sini sebagai bahan perenungan kita bersama.
 
 *Pertama-tama,* Bulan Ramadan adalah waktu untuk berdakwah dan mempererat hubungan dengan keluarga dan teman-teman. Setiap malam selama bulan ini, orang-orang berkumpul untuk shalat tarawih, berdoa dan membaca Al-Quran (tadarus) bersama-sama di masjid. Ini adalah saat yang sangat tepat untuk memperkuat ikatan dengan orang-orang yang kita cintai dan menghabiskan waktu bersama sebagai keluarga dan kerabat tercinta.
 
