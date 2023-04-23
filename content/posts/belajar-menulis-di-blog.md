@@ -2,11 +2,11 @@
 date: 2021-02-25T00:00:00.000Z
 title: Belajar menulis di blog
 tags: []
-image: /images/technology-infographics-by-slidesgo.png
+image: /images/technology-infographics-by-slidesgo.webp
 _template: post
 ---
 
-![](/images/technology-infographics-by-slidesgo.png)  
+![](/images/technology-infographics-by-slidesgo.webp)  
 Mencurahkan ide, gagasan, pendapat dan suasana perasaan hati lewat bahasa tulis di blog sudah lazim dan banyak dilakukan orang saat sekarang ini. Sayapun harus mulai belajar banyak untuk menulis di blog saya ini. Tentu masih banyak kekurangan dan kesalahan-kesalahan yang saya buat dalam proses belajar menulis ini. Namun setidaknya saya harus belajar dari kesalahan dan kekurangan itu untuk memperbaiki kegiatan menulis ini.
 
 Minat untuk memiliki blog dan melengkapi dengan tulisan bagi kebanyakan orang tidak pernah surut dari tahun ke tahun. Banyak alasan orang kenapa ingin memiliki blog (pribadi) mulai dari sekedar berbagi informasi, menuangkan ide-ide, curhat melalui tulisan, mencari teman bahkan hingga mencari nafkah. Demikian pula saya, meskipun terasa terlambat tetapi '**_better late than never_**'. Saya harus lebih banyak belajar untuk meningkatkan kompetensi membaca dan menulis ini.

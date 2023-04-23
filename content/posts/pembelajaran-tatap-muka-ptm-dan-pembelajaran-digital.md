@@ -5,10 +5,10 @@ tags:
   - pembelajaran bauran
   - pembelajaran tatap muka
   - pembelajaran digital
-image: /images/img_20210406_104511.jpg
+image: /images/img_20210406_104511.webp
 ---
 
-![](/images/img_20210406_104511.jpg)Pembelajaran tatap muka (PTM) dan pembelajaran digital, di era milenial ini erat kaitannya dengan upaya kita untuk menguasai teknologi digital dan menerapkannya dalam proses pembelajaran. Hal ini tentu sama pentingnya untuk mendukung kemajuan dunia pendidikan di tanah air tercinta. Keduanya, tidak dapat dipisahkan begitu saja satu dengan yang lainnya. Menganggap bahwa yang satu hal lebih utama ketimbang yang lainnya adalah klaim sepihak yang tidak berimbang untuk kondisi saat ini.
+![](/images/img_20210406_104511.webp)Pembelajaran tatap muka (PTM) dan pembelajaran digital, di era milenial ini erat kaitannya dengan upaya kita untuk menguasai teknologi digital dan menerapkannya dalam proses pembelajaran. Hal ini tentu sama pentingnya untuk mendukung kemajuan dunia pendidikan di tanah air tercinta. Keduanya, tidak dapat dipisahkan begitu saja satu dengan yang lainnya. Menganggap bahwa yang satu hal lebih utama ketimbang yang lainnya adalah klaim sepihak yang tidak berimbang untuk kondisi saat ini.
 
 Memisahkan antara pembelajaran tatap muka dan penguasaan teknologi digital dalam pembelajaran di dunia pendidikan, sama artinya membuat ‘*pincang*’ sasaran kita untuk menciptakan sumber daya manusia (SDM) Indonesia yang ungggul, berkualitas, siap berkompetisi, dan bernalar positif. Namun jelas dirasakan bahwa pembelajaran jarak jauh telah menjadi norma baru di sebagian besar negara di dunia, dan digitalisasi pendidikan merupakan salah satu cara untuk memastikan bahwa siswa tetap belajar meskipun mereka tidak dapat berada di ruang kelas. Pengajaran dan pembelajaran yang dilakukan secara online dapat dilakukan dengan bantuan teknologi, seperti video konferensi, e-learning, dan platform pembelajaran online. Dalam proses digitalisasi pendidikan, pengajar dan siswa dapat mengakses materi pelajaran dari mana saja dan kapan saja, menghemat waktu dan biaya perjalanan.
 
