@@ -4,7 +4,7 @@ title: Mengulik pembelajaran blended learning di masa pandemi
 tags:
   - pembelajaran di masa pandemi
   - blended learning
-image: /images/1c.jpeg
+image: /images/1c.webp
 _template: post
 ---
 
@@ -14,7 +14,7 @@ Kemajuan Teknologi Informasi dan Komunikasi (TIK) di perikehidupan dunia sehari-
 
 Proses pembelajaran jarak jauh (PJJ) telah melahirkan beberapa terobosan baru dalam dunia pendidikan. Salah satunya adalah kebijakan untuk menerapkan pembelajaran kombinasi antara pembelajaran tatap muka langsung dengan pembelajaran dalam jaringan (daring). Model pembelajaran yang selama ini kita ketahui dinamakan _face to face learning_. _Face to face learning_ adalah model pembelajaran tradisional yang mengandalkan kegiatan tatap muka di kelas. Kini sudah muncul model pembelajaran lain berbasis TIK yaitu _blended learning_ dan _online learning_. _Blended learning_ merupakan model pembelajaran campuran. Campuran yang dimaksud adalah kombinasi antara model pembelajaran _online learning_ dengan model pembelajaran _face to face learning._ _Online learning_ diartikan sebagai model pembelajaran yang seluruh kegiatannya dilakukan secara _online_. Mulai dari pemberian instruksi, interaksi, hingga aktivitas belajar. Pada model pembelajaran _blended learning_, unsur tatap muka tetap dilaksanakan selama kegiatan belajar mengajar. Berbeda dengan _online learning_ yang menghilangkan seluruh kegiatan tatap muka dalam proses pembelajarannya.
 
-![](/images/1c.jpeg)
+![](/images/1c.webp)
 
 _Blended learning_ merupakan salah satu model pembelajaran inovatif yang mengintegrasikan teknologi sesuai dengan tuntutan pembelajaran abad ke-21 dan relevan diterapkan pada proses pembelajaran masa covid-19 seperti kondisi sekarang ini. Sejalan dengan perkembangan zaman dan kondisi terkini, teknologi terus berkembang menyesuaikan kebutuhan dan permintaan manusia. Salah satunya di bidang pendidikan. Teknologi telah menjadi sentral peran penting dalam mengoptimalkan proses pembelajaran. Dengan memanfaatkan teknologi kita dapat menciptakan pembelajaran yang menyenangkan, berbasis pengalaman, efektif, dan interaktif. Pemanfaatan teknologi bukan malah untuk menghilangkan esensi dari pendidikan itu sendiri, melainkan melengkapi metode pembelajaran konvensional menjadi lebih bermakna.
 

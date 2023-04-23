@@ -13,7 +13,8 @@ export async function getStaticPaths() {
 const { frontmatter: post, Content } = Astro.props;
 ---
 <Layout title={post.title}>
-  <main>
+	<main>
+    <a href="../"><h2>⇐</h2></a>
     <h2>{post.title}</h2>
     <article>
       <Content />
@@ -22,17 +23,9 @@ const { frontmatter: post, Content } = Astro.props;
 </Layout>
 
 <style>
-	main {
-		margin-left: 9rem;
-		margin-right: 9rem;
-		padding: 1.5rem;
-	}
 	h2 {
 		font-size: 2rem;
 		font-weight: 600;
 		margin: 0;
 	}
-  article {
-    margin-top: 2rem;
-  }
 </style>
