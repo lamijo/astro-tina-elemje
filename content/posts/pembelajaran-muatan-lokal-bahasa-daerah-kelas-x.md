@@ -14,7 +14,7 @@ Sugeng enjang para putra-putri ingkang kula tresnani.  Sugeng pepanggihan malih 
 
 Kangge kabektahan iringan (_back sound_) tugas punika, saged dipun pundut (_download_) lumantar _link_ wonten ngandhap punika :
 
-[https://drive.google.com/drive/folders/14b4zhakZopXIpz8LYvz9oXI0I17ZQYzs?usp=sharing](https://drive.google.com/drive/folders/14b4zhakZopXIpz8LYvz9oXI0I17ZQYzs?usp=sharing "https://drive.google.com/drive/folders/14b4zhakZopXIpz8LYvz9oXI0I17ZQYzs?usp=sharing")
+[https://drive.google.com/drive/folders/14b4zhakZopXIpz8LYvz9oXI0I17ZQYzs?usp=sharing](https://drive.google.com/drive/folders/14b4zhakZopXIpz8LYvz9oXI0I17ZQYzs?usp=sharing)
 
 Matur sembah nuwun kawigatosanipun, sugeng makarya mugi tansah pinaringan gangsar lancar sedaya jejibahanipun. Nuwun.
 
