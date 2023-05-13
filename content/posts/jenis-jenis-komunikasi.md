@@ -15,6 +15,8 @@ Ilmu komunikasi adalah disiplin ilmu yang mempelajari cara manusia berkomunikasi
 
 Ilmu komunikasi bermula pada awal abad ke-20 sebagai bidang penelitian interdisipliner yang melibatkan psikologi, sosiologi, dan antropologi. Saat itu, para peneliti tertarik untuk mempelajari bagaimana pesan dapat diterima dan dipahami oleh penerima, serta bagaimana pesan dapat mempengaruhi perilaku dan tindakan seseorang. Pada dekade 1950-an, teknologi komunikasi semakin berkembang, dan ilmu komunikasi mulai memasuki era baru. Studi tentang media massa dan efeknya pada masyarakat menjadi topik utama dalam ilmu komunikasi. Pada saat yang sama, teori-teori komunikasi seperti teori informasi dan teori interaksi sosial juga mulai berkembang.
 
+Ilmu komunikasi sangat penting dalam kehidupan sehari-hari. Melalui pemahaman tentang cara manusia berkomunikasi, ilmu ini membantu kita memahami hubungan sosial, politik, dan ekonomi dalam masyarakat. Ilmu komunikasi juga membantu kita memahami bagaimana media massa mempengaruhi cara kita berpikir dan bertindak, serta bagaimana teknologi informasi memengaruhi cara kita berkomunikasi. Selain itu, ilmu komunikasi juga penting dalam dunia bisnis dan organisasi. Melalui pemahaman tentang cara komunikasi yang efektif, organisasi dapat meningkatkan produktivitas dan efisiensi dalam bekerja. Ilmu komunikasi juga membantu bisnis dalam mengembangkan strategi pemasaran yang efektif untuk mencapai target konsumen.
+
 ![](/images/ghozt_tramp_-_business_communication_duplicat_model-768x630.jpg)
 
 Ada empat kategori utama cara atau gaya komunikasi termasuk verbal, nonverbal, tertulis dan visual:
