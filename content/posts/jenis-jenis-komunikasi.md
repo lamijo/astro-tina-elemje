@@ -13,6 +13,8 @@ Ada berbagai macam dan cara berbeda untuk menyampaikan informasi tersebut. Misal
 
 Ilmu komunikasi adalah disiplin ilmu yang mempelajari cara manusia berkomunikasi satu sama lain melalui media dan teknologi yang berbeda. Ilmu ini berkaitan dengan berbagai macam aspek komunikasi, termasuk psikologi, sosiologi, antropologi, dan teknologi informasi. Ilmu komunikasi dapat diartikan sebagai studi tentang proses penyampaian informasi antara individu atau kelompok dengan cara yang dapat dipahami oleh kedua belah pihak. Proses ini dapat terjadi melalui berbagai media seperti tulisan, suara, gambar, dan video. Tujuan dari ilmu komunikasi adalah untuk mempelajari cara manusia berkomunikasi satu sama lain, dan bagaimana informasi dapat diterima dan diproses oleh penerima pesan.
 
+Ilmu komunikasi bermula pada awal abad ke-20 sebagai bidang penelitian interdisipliner yang melibatkan psikologi, sosiologi, dan antropologi. Saat itu, para peneliti tertarik untuk mempelajari bagaimana pesan dapat diterima dan dipahami oleh penerima, serta bagaimana pesan dapat mempengaruhi perilaku dan tindakan seseorang. Pada dekade 1950-an, teknologi komunikasi semakin berkembang, dan ilmu komunikasi mulai memasuki era baru. Studi tentang media massa dan efeknya pada masyarakat menjadi topik utama dalam ilmu komunikasi. Pada saat yang sama, teori-teori komunikasi seperti teori informasi dan teori interaksi sosial juga mulai berkembang.
+
 ![](/images/ghozt_tramp_-_business_communication_duplicat_model-768x630.jpg)
 
 Ada empat kategori utama cara atau gaya komunikasi termasuk verbal, nonverbal, tertulis dan visual:
