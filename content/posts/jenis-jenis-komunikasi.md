@@ -11,6 +11,8 @@ Komunikasi adalah proses pengiriman dan penerimaan informasi, pesan, atau ide an
 
 Ada berbagai macam dan cara berbeda untuk menyampaikan informasi tersebut. Misalnya, anda mungkin menggunakan komunikasi verbal saat berbagi presentasi dengan beberapa orang dalam sebuah forum. Atau mungkin anda menggunakan komunikasi tertulis saat melamar pekerjaan atau mengirim surat elektronik (e-mail) kepada orang lain.masing-masing. Ada berbagai macam dan cara berbeda untuk menyampaikan informasi tersebut. Misalnya, anda mungkin menggunakan komunikasi verbal saat berbagi presentasi dengan beberapa orang dalam sebuah forum. Atau mungkin anda menggunakan komunikasi tertulis saat melamar pekerjaan atau mengirim surat elektronik (e-mail) kepada orang lain.
 
+Ilmu komunikasi adalah disiplin ilmu yang mempelajari cara manusia berkomunikasi satu sama lain melalui media dan teknologi yang berbeda. Ilmu ini berkaitan dengan berbagai macam aspek komunikasi, termasuk psikologi, sosiologi, antropologi, dan teknologi informasi. Ilmu komunikasi dapat diartikan sebagai studi tentang proses penyampaian informasi antara individu atau kelompok dengan cara yang dapat dipahami oleh kedua belah pihak. Proses ini dapat terjadi melalui berbagai media seperti tulisan, suara, gambar, dan video. Tujuan dari ilmu komunikasi adalah untuk mempelajari cara manusia berkomunikasi satu sama lain, dan bagaimana informasi dapat diterima dan diproses oleh penerima pesan.
+
 ![](/images/ghozt_tramp_-_business_communication_duplicat_model-768x630.jpg)
 
 Ada empat kategori utama cara atau gaya komunikasi termasuk verbal, nonverbal, tertulis dan visual:
